@@ -6,7 +6,7 @@ This project was followed from a [tutorial](https://youtu.be/dZC4T4UiU1c?t=1171)
 
 ## Time Taken
 
-Around 1 hour
+Around 2 hour
 
 ## Frameworks and Languages
 
